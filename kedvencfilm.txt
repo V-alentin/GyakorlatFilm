@@ -1,2 +1,11 @@
 starwars
-aki rendezte
+megjelenés:1990
+Főszereplők:emberek
+Rebdező:valaki
+operatőr:kamerás
+tartalom: az űrben van
+trailer:
+Forgatási helyszínek: sok helyen
+Zenéjét szerezte:zeneszerző
+Jelölések: díjak
+Producerek: producer ember

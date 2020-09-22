@@ -17,3 +17,8 @@ Zeéjét szerezte: Valami ember
 Jelölések: ez meg az
 
 Producerek: ilyen olyan arcok
+
+másik film:
+cím: starwars
+rendező: valaki
+leírás: valami van az űrben

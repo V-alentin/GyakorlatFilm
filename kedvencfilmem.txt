@@ -22,12 +22,11 @@ Jelölések:
 
 Producerek: ilyen olyan arcok
 
-<<<<<<< HEAD
+
 Producerek: ilyen olyan arcok
 
 másik film:
 cím: starwars
 rendező: valaki
 leírás: valami van az űrben
-=======
->>>>>>> 7fba88eacdde8bff4fd2fbb4a184cfc58f23d3c9
+

@@ -30,3 +30,4 @@ cím: starwars
 rendező: valaki
 leírás: valami van az űrben
 helyszínn: világűr
+zene: zenész ember
